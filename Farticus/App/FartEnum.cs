@@ -7,10 +7,27 @@
     /// </remarks>
     enum Farts
     {
-        Fart1,
-        Fart2,
-        Fart3,
-        Fart4,
-        Fart5,
+        RandomFart = 0,
+        Sweet,
+        HighPressure,
+        Romantic,
+        WetEnding,
+        Windy,
+        Ripper,
+        Flute,
+        LawnMower,
+        Constant,
+        Quick,
+        Trumpet,
+        DoubleTake,
+        Continious,
+        Deep,
+        Echo,
+        Extended,
+        RealQuick,
+        Sharp,
+        ShortRipper,
+        Straining,
+        WetOne
     }
 }
